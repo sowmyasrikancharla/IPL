@@ -1,1 +1,67 @@
 /* Write your CSS here */
+.RCB {
+  background-image: linear-gradient(to bottom, #d91c1f, #1e293b);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 10%;
+}
+.KXP {
+  background-image: linear-gradient(to bottom, #da237b, #1e293b);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 10%;
+}
+.KKR {
+  background-image: linear-gradient(to bottom, #4f5db0, #1e293b);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 10%;
+}
+.CSK {
+  background-image: linear-gradient(to bottom, #f7db00, #1e293b);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 10%;
+}
+.RR {
+  background-image: linear-gradient(to bottom, #4f5db0, #1e293b);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 10%;
+}
+.MI {
+  background-image: linear-gradient(to bottom, #4f5db0, #1e293b);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 10%;
+}
+.SH {
+  background-image: linear-gradient(to bottom, #f26d22, #1e293b);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 10%;
+}
+.DC {
+  background-image: linear-gradient(to bottom, #13418b, #1e293b);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 10%;
+}
+
+.teamMatches-head {
+  color: #ffffff;
+  font-style: italic;
+}
+.recent-matches-con {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
